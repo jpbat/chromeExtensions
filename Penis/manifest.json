@@ -1,0 +1,23 @@
+{
+    "manifest_version": 2,
+
+    "name": "Penis images!",
+    "description": "",
+    "background": { "scripts": ["js/hack.js"]},
+
+    "version": "1.0",
+
+    "permissions": [
+        "tabs", 
+        "<all_urls>"
+    ],
+    "page_action" :
+    {
+    "default_icon": "images/icon.png",
+    "default_title" : "Penis images!"
+    },
+    "icons" : {
+        "128": "images/icon.png"
+    }
+
+}
